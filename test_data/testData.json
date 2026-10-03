@@ -1,0 +1,18 @@
+{
+	"CT":{
+		"state":"CT",
+        "city":"test1",
+		"firstName":"Prashanth",
+		"lastName":"Gaddam",
+		"zipCode":"517297",
+		"address":"Andhra Pradesh"
+		},
+
+	"NY":{
+		"state":"NY",
+		"firstName":"Prashanth",
+		"lastName":"Gaddam",
+		"zipCode":"517297",
+		"address":"Andhra Pradesh"
+		}
+}

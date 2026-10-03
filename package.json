@@ -1,0 +1,37 @@
+{
+  
+  "name": "playwright1",
+  
+  "version": "1.0.0",
+  
+  "description": "",
+  
+  "main": "index.js",
+  
+  "scripts": {},
+  
+  "keywords": [],
+  
+  "author": "",
+  
+  "license": "ISC",
+  
+  "type": "module",
+  
+  "devDependencies": {
+  
+    
+  "@playwright/test": "^1.62.1",
+  
+    
+  "@types/node": "^26.1.2"
+  
+  },
+  
+  "dependencies": {
+  
+    
+  "prompt-sync": "^4.2.0"
+  
+  }
+}
